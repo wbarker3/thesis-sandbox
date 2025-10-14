@@ -1,0 +1,6 @@
+# Git ignores all files with the following extentions in version control.
+
+*.pdf
+*.csv
+*.RData
+*.bak
